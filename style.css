@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #cbc6ae;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #275095;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.ingredients, .instructions {
+    background-color: #a0e0e7;
+  
+}
+
+.ingredients h2, .instructions h2 {
+    color: #90316c;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
