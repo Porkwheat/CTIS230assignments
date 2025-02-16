@@ -1,18 +1,22 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Lucida Bright', Georgia;
     background-color: #cbc6ae;
     color: #333;
     margin: 0;
+    font-size:medium;
 }
 
 header {
     background-color: #275095;
     color: white;
     text-align: center;
+    font-size:large;
 }
 
 header h1 {
     margin: 0;
+    font-weight:bold;
+    color: #f0ac47;
 }
 
 main {
@@ -31,5 +35,20 @@ main {
 
 ul, ol {
     margin-left: 20px;
+    font-weight:light;
 }
+ a:link {  
+        color:#c58de7;  
+    }
 
+  a:hover {  
+        color:#dfe78d;  
+    }
+
+a:visited {  
+        color:#8de7a2;  
+    }
+
+  a:active {  
+        color:#8de7d4;  
+    }
